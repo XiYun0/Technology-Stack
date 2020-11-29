@@ -1,5 +1,3 @@
-[TOC]
-
 # Technology stack and Road to work
 This warehouse is used to summarize my own technology stack and road to work.	:smirk::smirk::smirk:
 
@@ -26,6 +24,12 @@ Brief and elegant
 - Recommended website
   - [廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400)
 
+### Shell
+
+- Recommended books
+- Recommended video
+- Recommended website
+
 ### Golang
 
 - Recommended books
@@ -45,6 +49,10 @@ The language that front-end engineers must know
 ### C#
 
 In order to learn Unity, I need to learn this language, it has many similarities with Java
+
+
+
+
 
 ## :rocket:frame
 
@@ -112,6 +120,10 @@ Front-end framework developed by Evan You
 
 ### Linux
 
+
+
+
+
 ## :ship:BigData Component
 
 ### Hadoop
@@ -140,7 +152,17 @@ Front-end framework developed by Evan You
 
 ### Zookeeper
 
-## :person_with_pouting_face:Interview
+
+
+## :art:Front-end
+
+### HTML
+
+
+
+### CSS
+
+## :pray:Interview
 
 
 
