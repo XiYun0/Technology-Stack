@@ -1,5 +1,5 @@
 # Technology stack and Road to work
-This warehouse is used to summarize my own technology stack and road to work.	:smirk::smirk::smirk:
+This warehouse is used to summarize my own technology stack and road to work.:smirk::smirk::smirk:
 
 ## :tea:Programming Language
 
@@ -26,14 +26,14 @@ Brief and elegant
 
 ### Shell
 
-- Recommended books
-- Recommended video
-- Recommended website
+
 
 ### Golang
 
 - Recommended books
+  - 《Go语言高级编程》
 - Recommended video
+  - 无闻
 - Recommended website
 
 ### JavaScript
@@ -41,6 +41,7 @@ Brief and elegant
 The language that front-end engineers must know
 
 - Recommended books
+  - 《JavaScript高级程序设计》
 - Recommended video
   - 尚硅谷-李立超
   - 黑马-Pink
@@ -54,7 +55,7 @@ In order to learn Unity, I need to learn this language, it has many similarities
 
 
 
-## :rocket:frame
+## :rocket:Frame
 
 ### Spring
 
@@ -120,7 +121,8 @@ Front-end framework developed by Evan You
 
 ### Linux
 
-
+- Recommended books
+  - [鸟哥的Linux私房菜](http://cn.linux.vbird.org/)
 
 
 
@@ -128,13 +130,18 @@ Front-end framework developed by Evan You
 
 ### Hadoop
 
+- Recommended books
+  - Hadoop权威指南
+
+### Spark
+
 
 
 ### Flink
 
+流批一体的大数据处理引擎，现在和Spark平分秋色。
 
 
-### Spark
 
 
 
@@ -158,9 +165,23 @@ Front-end framework developed by Evan You
 
 ### HTML
 
-
+- Recommended books
+  - 《CSS揭秘》
+- Recommended video
+  - 尚硅谷-李立超
+  - 黑马-Pink
+- Recommended website
+  - http://html.net/
 
 ### CSS
+
+- Recommended books
+  - 
+- Recommended video
+  - 尚硅谷-李立超
+  - 黑马-Pink
+- Recommended website
+  - http://html.net/
 
 ## :pray:Interview
 
@@ -177,7 +198,9 @@ Deepmind's DQN successfully combines deep learning and reinforcement learning, s
 Reinforcement Learning is my research direction at the master's level.
 Simply put, Reinforcement Learning describes the process of interaction between the agent and the environment, and its goal is to allow the agent to find an optimal strategy to maximize the cumulative reward.
 
+### Multi-agent Reinforcement Learning
 
+[多智能体强化学习的相关论文](https://blog.csdn.net/qq_44852767/article/details/105603093)
 
 
 
