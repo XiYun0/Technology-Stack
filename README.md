@@ -165,8 +165,6 @@ Front-end framework developed by Evan You
 
 ### HTML
 
-- Recommended books
-  - 《CSS揭秘》
 - Recommended video
   - 尚硅谷-李立超
   - 黑马-Pink
@@ -176,7 +174,7 @@ Front-end framework developed by Evan You
 ### CSS
 
 - Recommended books
-  - 
+  - 《CSS揭秘》
 - Recommended video
   - 尚硅谷-李立超
   - 黑马-Pink
