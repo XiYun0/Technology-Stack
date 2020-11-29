@@ -1,10 +1,10 @@
-# Technology stack and Road to work
-This warehouse is used to summarize my own technology stack and road to work.:smirk::smirk::smirk:
+# Technology stack 
+This warehouse is used to summarize the technology stack I am studying and preparing to learn.:smirk::smirk::smirk:
 
 ## :tea:Programming Language
 
 ### Java
-
+- [x] Doing
 Learned Java for work
 
 - Recommended books
@@ -17,6 +17,8 @@ Learned Java for work
   - 尚硅谷-宋红康
 - Recommended website
 
+
+
 ### Python
 
 Brief and elegant
@@ -25,13 +27,14 @@ Brief and elegant
   - [廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400)
 
 ### Shell
-
+- [ ] TODO
 
 
 ### Golang
 
 - Recommended books
   - 《Go语言高级编程》
+  - 《Go入门指南》
 - Recommended video
   - 无闻
 - Recommended website
@@ -48,10 +51,8 @@ The language that front-end engineers must know
 - Recommended website
 
 ### C#
-
+- [ ] TODO
 In order to learn Unity, I need to learn this language, it has many similarities with Java
-
-
 
 
 
@@ -68,7 +69,7 @@ Front-end framework developed by Evan You
 ## :speedboat:DataBase
 
 ### MySQL
-
+- [x] Doing
 - Recommended books
   - 《Mysql必知必会》
   - 《高性能MySQL》
@@ -95,7 +96,7 @@ Front-end framework developed by Evan You
 ## :triangular_ruler:Computer Basics
 
 ### Computer Network
-
+- [x] Doing
 - Recommended books
   - 《计算机网络：自顶向下方法》
 - Recommended video
@@ -103,14 +104,14 @@ Front-end framework developed by Evan You
 - Recommended website
 
 ### Operating System
-
+- [x] Doing
 - Recommended books
 - Recommended video
   - 哈工大-李治军老师
 - Recommended website
 
 ### Data Structures and Algorithms
-
+- [x] Doing
 - Recommended books
   - 《剑指offer》
   - 《图解算法》
@@ -130,20 +131,29 @@ Front-end framework developed by Evan You
 
 ### Hadoop
 
+>The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-available service on top of a cluster of computers, each of which may be prone to failures.
+
 - Recommended books
   - Hadoop权威指南
+- Recommended video
+- Recommended website
+  - http://hadoop.apache.org/
 
 ### Spark
 
+>**Apache Spark™** is a unified analytics engine for large-scale data processing.
 
+- Recommended website
+  - http://spark.apache.org/
 
 ### Flink
 
 流批一体的大数据处理引擎，现在和Spark平分秋色。
 
+![img](https://flink.apache.org/img/bounded-unbounded.png)
 
-
-
+- Recommended website
+  - https://flink.apache.org/
 
 ### Hive
 
@@ -151,11 +161,19 @@ Front-end framework developed by Evan You
 
 ### Flume
 
+> Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. It uses a simple extensible data model that allows for online analytic application.
 
+![Agent component diagram](http://flume.apache.org/_images/DevGuide_image00.png)
+
+- Recommended website
+  - http://flume.apache.org/
 
 ### Kafka
 
+>Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 
+- Recommended website
+  - http://kafka.apache.org/
 
 ### Zookeeper
 
@@ -183,6 +201,14 @@ Front-end framework developed by Evan You
 
 ## :pray:Interview
 
+### Open source
+
+[CS-Notes](http://www.cyc2018.xyz/)
+
+[JavaGuide](https://snailclimb.gitee.io/javaguide/)
+
+[advanced-java](https://doocs.gitee.io/advanced-java/)
+
 
 
 ## :light_rail:Machine learning
@@ -203,5 +229,10 @@ Simply put, Reinforcement Learning describes the process of interaction between 
 
 
 ## :soccer:Unity
-
+- [ ] Todo
 Making a small game that satisfies you is obviously a fun and challenging thing.
+
+
+
+## :package:Tools
+
