@@ -18,6 +18,8 @@ Learned Java for work
 - Recommended video
   - 传智播客-毕向东
   - 黑马
+    - [全面深入学习java并发编程，java基础进阶中级必会教程](https://www.bilibili.com/video/BV16J411h7Rd?from=search&seid=9274118365320332992)
+    - [java中级程序员必会的教程，解密JVM【黑马程序员出品】](https://www.bilibili.com/video/BV1yE411Z7AP?from=search&seid=15830869830161141052)
   - 尚硅谷-宋红康
 - Recommended website
 
@@ -155,6 +157,8 @@ Front-end framework developed by Evan You
 - Recommended books
   - Hadoop权威指南
 - Recommended video
+  - 黑马
+    - [大数据自学教程Hadoop从零到精通完整版](https://www.bilibili.com/video/BV1ek4y117Yq/?spm_id_from=333.788.videocard.0)
 - Recommended website
   - http://hadoop.apache.org/
 
@@ -228,7 +232,19 @@ Front-end framework developed by Evan You
 
 [advanced-java](https://doocs.gitee.io/advanced-java/)
 
+[labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
 
+[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+
+
+
+### Resume
+
+An excellent resume is very rare in the vast crowd.How to stand out?
+
+### [牛客](https://www.nowcoder.com/)
+
+没事可以看看牛客的薪资。
 
 ## :light_rail:Machine learning
 
@@ -250,11 +266,13 @@ Simply put, Reinforcement Learning describes the process of interaction between 
 ## :soccer:Unity
 - [ ] Todo
 
-
-
 Making a small game that satisfies you is obviously a fun and challenging thing.
 
+- Recommended video
+  - [[傅老師/Unity教學] Unity3D基礎入門](https://www.bilibili.com/video/BV18x411X7ds)
 
 
-## :package:Tools
 
+## :package:[Tools](https://github.com/XiYun0/Technology-Stack/blob/main/Tools/README.md)
+
+Some tools I use
