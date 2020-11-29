@@ -1,10 +1,14 @@
+
+
 # Technology stack 
+
 This warehouse is used to summarize the technology stack I am studying and preparing to learn.:smirk::smirk::smirk:
 
 ## :tea:Programming Language
 
 ### Java
 - [x] Doing
+
 Learned Java for work
 
 - Recommended books
@@ -19,7 +23,7 @@ Learned Java for work
 
 
 
-### Python
+### Python	
 
 Brief and elegant
 
@@ -28,6 +32,8 @@ Brief and elegant
 
 ### Shell
 - [ ] TODO
+
+
 
 
 ### Golang
@@ -52,6 +58,7 @@ The language that front-end engineers must know
 
 ### C#
 - [ ] TODO
+
 In order to learn Unity, I need to learn this language, it has many similarities with Java
 
 
@@ -70,6 +77,9 @@ Front-end framework developed by Evan You
 
 ### MySQL
 - [x] Doing
+
+
+
 - Recommended books
   - 《Mysql必知必会》
   - 《高性能MySQL》
@@ -97,6 +107,9 @@ Front-end framework developed by Evan You
 
 ### Computer Network
 - [x] Doing
+
+
+
 - Recommended books
   - 《计算机网络：自顶向下方法》
 - Recommended video
@@ -105,6 +118,9 @@ Front-end framework developed by Evan You
 
 ### Operating System
 - [x] Doing
+
+
+
 - Recommended books
 - Recommended video
   - 哈工大-李治军老师
@@ -112,6 +128,9 @@ Front-end framework developed by Evan You
 
 ### Data Structures and Algorithms
 - [x] Doing
+
+
+
 - Recommended books
   - 《剑指offer》
   - 《图解算法》
@@ -230,6 +249,9 @@ Simply put, Reinforcement Learning describes the process of interaction between 
 
 ## :soccer:Unity
 - [ ] Todo
+
+
+
 Making a small game that satisfies you is obviously a fun and challenging thing.
 
 
