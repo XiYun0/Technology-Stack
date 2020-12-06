@@ -17,11 +17,14 @@ Learned Java for work
   - 《Java并发编程的艺术》
 - Recommended video
   - 传智播客-毕向东
-  - 黑马
+  - 黑马-满一航
     - [全面深入学习java并发编程，java基础进阶中级必会教程](https://www.bilibili.com/video/BV16J411h7Rd?from=search&seid=9274118365320332992)
     - [java中级程序员必会的教程，解密JVM【黑马程序员出品】](https://www.bilibili.com/video/BV1yE411Z7AP?from=search&seid=15830869830161141052)
   - 尚硅谷-宋红康
+    - [尚硅谷_Java零基础教程-java入门必备-适合初学者的全套完整版教程(宋红康主讲)](https://www.bilibili.com/video/BV1Kb411W75N?from=search&seid=12664269970959047359)
+    - [尚硅谷2020最新版宋红康JVM教程更新至中篇(java虚拟机详解，jvm从入门到精通)](https://www.bilibili.com/video/BV1PJ411n7xZ?from=search&seid=12664269970959047359)
 - Recommended website
+  - [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se8/html/)
 
 
 
@@ -140,6 +143,8 @@ Front-end framework developed by Evan You
 - Recommended video
   - 左程云
 - Recommended website
+  - [labuladong 的算法小抄](https://labuladong.gitbook.io/algo/)
+  - CS-Notes
 
 ### Linux
 
