@@ -95,11 +95,17 @@ Front-end framework developed by Evan You
 
 ### Redis
 
+- [x] Doing
+
+>Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions, and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
+
 - Recommended books
   - 《Redis设计与实现》
   - 《Redis深度历险》
 - Recommended video
+  - 尚硅谷-周阳
 - Recommended website
+  - https://redis.io/
 
 ### Hbase
 
@@ -118,7 +124,7 @@ Front-end framework developed by Evan You
 - Recommended books
   - 《计算机网络：自顶向下方法》
 - Recommended video
-  - [王道考研](https://www.bilibili.com/video/BV19E411D78Q)
+  - 韩立刚
 - Recommended website
 
 ### Operating System
